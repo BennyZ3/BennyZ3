@@ -1,5 +1,5 @@
 ### Connect with me
-[![Email Badge](https://img.shields.io/badge/Email-lightgrey)](bennyzheng@pursuit.org)
+[![Email Badge](https://img.shields.io/badge/Email-lightgrey)](mailto:bennyzheng@pursuit.org)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benny-zheng-b1768569/)
 [![GitHub Badge](https://img.shields.io/github/followers/BennyZ3?label=Follow%20%40BennyZ3&style=social)](https://github.com/BennyZ3)
 
