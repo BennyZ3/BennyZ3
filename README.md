@@ -3,4 +3,5 @@
 [![GitHub Badge](https://img.shields.io/github/followers/BennyZ3?label=Follow%20%40BennyZ3&style=social)](https://github.com/BennyZ3)
 - ⚡ Fun fact: Play most genres of Games, and have a black belt in Karate
 
+https://leetcode.com/u/bennyz3/
 [![Codewars Badge](https://www.codewars.com/users/BennyZ3/badges/large)](https://www.codewars.com/users/BennyZ3)
