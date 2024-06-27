@@ -3,8 +3,8 @@
 [![GitHub Badge](https://img.shields.io/github/followers/BennyZ3?label=Follow%20%40BennyZ3&style=social)](https://github.com/BennyZ3)
 - ⚡ Fun fact: Will play any games, whether sports, cards, board games, or video games, and have a black belt in Karate.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/bennyz3)](https://leetcard.jacoblin.cool/bennyz3?theme=nord&font=Noto%20Sans%20Tamil&ext=activity)
-
+[[![Leetcode Stats](https://leetcard.jacoblin.cool/bennyz3)](https://leetcard.jacoblin.cool/bennyz3?theme=nord&font=Noto%20Sans%20Tamil&ext=activity)
+](https://leetcard.jacoblin.cool/bennyz3?theme=nord&font=Noto%20Sans%20Tamil&ext=activity)
 [![Codewars Badge](https://www.codewars.com/users/BennyZ3/badges/large)](https://www.codewars.com/users/BennyZ3)
 
 https://leetcode.com/u/bennyz3/
